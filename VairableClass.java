@@ -44,12 +44,12 @@ public class VairableClass {
         /*Or use the Class */
         String stringVariable2 = new String("String using class");
         /*Class/Object */
-        VariableClass variableObject = new VariableClass();
+        VairableClass variableObject = new VairableClass();
         /*Use the same class Name as specified in public class <ClassName> */
         /*Need object to access instance variable */
         System.out.println(variableObject.instanceVariable);
         /*Can access static variable with Class only/ no object needed */
-        System.out.println(VariableClass.staticVariable);
+        System.out.println(VairableClass.staticVariable);
 
         /*Type casting */
         int intVariableConvert = 10;

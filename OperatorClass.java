@@ -106,7 +106,7 @@ public class OperatorClass {
         int rNUmber1 = 9, rNUmber2 = 18;
         boolean rExpression1 = rNUmber1 >= rNUmber2;
         String Output = rExpression1 ? "True Condition" : "False Condition";
-        int numberOutput = tNUmber2 > tNUmber2 ? 10 : 20;
+        int NumberOutput = tNUmber2 > tNUmber2 ? 10 : 20;
         System.out.println(output);
     }
 }
